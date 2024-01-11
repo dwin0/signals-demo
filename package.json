@@ -1,0 +1,11 @@
+{
+  "name": "signals-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "state": "npx serve ./state",
+    "working-state": "npx serve ./working-state",
+    "signal-state-simple": "npx serve ./signal-state-simple",
+    "signal-state-advanced": "npx serve ./signal-state-advanced"
+  },
+  "author": "David Windler"
+}
